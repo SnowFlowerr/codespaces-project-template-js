@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Quiz App for testing your Knowledge",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and developed Quiz Time, a dynamic quiz application , aimed at providing an interactive and engaging platform for users to test their knowledge and skills across various subjects.",
+    url: "https://quiz-time-ten.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed WeatherWise, a user-friendly weather application, designed to provide users with accurate and up-to-date weather information for their location and other selected locations.",
+    url: "https://weather-app-flame-xi.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "TECHISPOT CHAT APPLICATION",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed the frontend interface for TechiSpot together with my classmates, a collaborative platform for engineers. This project aimed to facilitate seamless communication among engineers by implementing a real-time chat feature.",
+    url: "https://techi-spott.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic Tac Toe Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a fully functional tic-tac-toe game that allows two players to play against each other. The game includes features like a graphical user interface (GUI), score tracking, and reset functionality.",
+    url: "https://tic-tac-toe-game-wheat-two.vercel.app/",
   },
 ];
 
